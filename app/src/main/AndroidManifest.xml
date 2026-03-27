@@ -23,7 +23,7 @@
         android:theme="@style/Theme.CampusCommute">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDdsWRSk1cLRcSKub4MUXUGcZARZ0pAUkg" />
+            android:value="" />
 
         <service
             android:name=".ui.screens.driver.LocationService"

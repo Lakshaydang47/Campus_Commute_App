@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- The Background Color (using our theme color) -->
+    <item android:drawable="@color/white" />
+
+    <!-- The App Logo (e.g., ic_launcher_foreground) -->
+    <!-- You should replace 'ic_launcher_foreground' with your actual app logo file -->
+    <item
+        android:width="100dp"
+        android:height="100dp"
+        android:gravity="center">
+        <bitmap
+            android:gravity="fill"
+            android:src="@drawable/logo" />
+    </item>
+
+</layer-list>
+
